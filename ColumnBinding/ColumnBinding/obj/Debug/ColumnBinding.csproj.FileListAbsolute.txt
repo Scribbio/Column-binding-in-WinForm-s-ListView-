@@ -1,0 +1,10 @@
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.csprojAssemblyReference.cache
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.Form1.resources
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.Properties.Resources.resources
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.csproj.GenerateResource.cache
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.csproj.CoreCompileInputs.cache
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\bin\Debug\ColumnBinding.exe.config
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\bin\Debug\ColumnBinding.exe
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\bin\Debug\ColumnBinding.pdb
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.exe
+C:\Users\A703774\source\repos\ColumnBinding\ColumnBinding\obj\Debug\ColumnBinding.pdb
